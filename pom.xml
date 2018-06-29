@@ -39,17 +39,17 @@
   </dependencies>
 <profiles>
 <profile>
-     <id>ycard-deploy</id>
+     <id>spring-deploy</id>
  <distributionManagement>
     <repository>
-      <id>ycard-releases</id>
-      <name>ycard-releases</name>
-      <url>http://ec2-52-15-150-6.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/ycard-releases/</url>
+      <id>spring-releases</id>
+      <name>spring-releases</name>
+      <url>http://ec2-13-232-50-237.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/spring-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>ycard-snapshots</id>
-      <name>ycard-snapshots</name>
-      <url>http://ec2-52-15-150-6.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/ycard-snapshots/</url>
+      <id>spring-snapshots</id>
+      <name>spring-snapshots</name>
+      <url>http://ec2-13-232-50-237.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/spring-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 </profile>
