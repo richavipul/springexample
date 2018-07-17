@@ -3,8 +3,8 @@
 <servers>
     <server>
       <id>spring-snapshots</id>
-      <username>spring-user</username>
-      <password>my_password</password>
+      <username>RV</username>
+      <password>admin</password>
     </server>
     <server>
       <id>spring-releases</id>
