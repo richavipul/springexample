@@ -2,7 +2,7 @@
 
 <servers>
     <server>
-      <id>spring-snapshots</id>
+      <id>SpringExample</id>
       <username>RV</username>
       <password>admin</password>
     </server>
