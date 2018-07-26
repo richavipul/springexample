@@ -49,7 +49,7 @@
     <snapshotRepository>
       <id>SpringExample</id>
       <name>SpringExample</name>
-      <url>http://ec2-54-235-235-255.compute-1.amazonaws.com:8081/nexus/content/repositories/SpringExample/</url>
+      <url>http://ec2-54-175-7-170.compute-1.amazonaws.com:8081/nexus/content/repositories/SpringExample/</url>
     </snapshotRepository>
   </distributionManagement>
 </profile>
